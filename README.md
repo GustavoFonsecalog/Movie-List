@@ -27,6 +27,9 @@ Botão de Home: Botão utilizado para retornar a página home onde é listado os
 - ``Vite``
 - ``Axios``
 
+## 📁 Acesso ao projeto
+Você pode acessar os arquivos do projeto clicando [aqui](https://github.com/GustavoFonsecalog/Movies-List/tree/main/Movies/src).
+
 ## Autores
 
 [<img src="https://avatars.githubusercontent.com/u/83730260?v=4" width=115><br><sub> Gustavo Fonseca Clementino </sub>](https://github.com/GustavoFonsecalog)
