@@ -25,6 +25,7 @@ Botão de Home: Botão utilizado para retornar a página home onde é listado os
 - ``React-router-dom``
 - ``React-icons``
 - ``Vite``
+- ``Axios``
 
 ## Autores
 
